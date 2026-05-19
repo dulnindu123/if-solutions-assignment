@@ -41,3 +41,101 @@ img { max-width: 100%; display: block; }
   top: 0;
   z-index: 100;
 }
+
+.site-header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-heading);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--dark);
+}
+
+.logo .logo-icon svg {
+  width: 32px;
+  height: 32px;
+  color: var(--primary);
+}
+
+.main-nav {
+  display: flex;
+  gap: 30px;
+}
+
+.main-nav a {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--dark);
+  letter-spacing: 0.8px;
+  transition: color 0.25s;
+}
+
+.main-nav a.active,
+.main-nav a:hover {
+  color: var(--primary);
+}
+
+.header-icons {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+}
+
+.cart-badge {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  background: var(--primary);
+  color: #fff;
+  font-size: 0.6rem;
+  font-weight: 700;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero {
+  position: relative;
+  height: 500px;
+  background: url('images/hero-banner.png') center center / cover no-repeat;
+  display: flex;
+  align-items: center;
+}
+
+.hero-inner {
+  max-width: 520px;
+  text-align: left;
+}
+
+.hero-inner h1 {
+  font-family: var(--font-heading);
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--dark);
+  text-transform: uppercase;
+}
+
+.btn-shop {
+  display: inline-block;
+  background: var(--primary);
+  color: #fff;
+  padding: 14px 30px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-rounded {
+  border-radius: 30px;
+}
