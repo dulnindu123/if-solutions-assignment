@@ -353,7 +353,7 @@ img { max-width: 100%; display: block; }
 }
 
 /* ============================================
-   SECTION BLOCKS + HEADINGS
+   SECTION BLOCKS + HEADINGS (font-style updated)
    ============================================ */
 .section-block {
   padding: 60px 0;
@@ -1049,4 +1049,5 @@ img { max-width: 100%; display: block; }
   opacity: 1;
   transform: translateY(0);
 }
+
 
