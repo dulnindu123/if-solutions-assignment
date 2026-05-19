@@ -197,7 +197,7 @@ img { max-width: 100%; display: block; }
 }
 
 /* ============================================
-   HERO - Left aligned with carousel arrows (bg position updated)
+   HERO - Left aligned with carousel arrows
    ============================================ */
 .hero {
   position: relative;
@@ -353,7 +353,7 @@ img { max-width: 100%; display: block; }
 }
 
 /* ============================================
-   SECTION BLOCKS + HEADINGS (font-style updated)
+   SECTION BLOCKS + HEADINGS
    ============================================ */
 .section-block {
   padding: 60px 0;
@@ -816,7 +816,7 @@ img { max-width: 100%; display: block; }
 }
 
 /* ============================================
-   NEWSLETTER (background updated)
+   NEWSLETTER
    ============================================ */
 .newsletter-block {
   background: var(--white);
@@ -1049,7 +1049,4 @@ img { max-width: 100%; display: block; }
   opacity: 1;
   transform: translateY(0);
 }
-
-
-
 
