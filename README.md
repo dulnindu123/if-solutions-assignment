@@ -67,3 +67,10 @@ Simply open `index.html` in any modern browser. No build tools or server require
 
 ## Author
 Dulnindu â€” IF Solutions Web Developer Internship Assignment
+
+## Design Decisions
+- **Typography**: Cormorant Garamond (serif) for headings to convey elegance, Poppins (sans-serif) for body text for readability
+- **Color Palette**: Coral (#e8614d) as primary accent, dark (#222) for text, muted gray (#999) for secondary content
+- **Layout**: Bootstrap 5 grid for responsive columns, custom CSS for component-specific styling
+- **Animations**: CSS transitions for hover effects, IntersectionObserver for scroll-triggered fade-in animations
+- **Accessibility**: Semantic HTML5 elements, ARIA labels on interactive elements, proper heading hierarchy
