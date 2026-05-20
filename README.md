@@ -12,20 +12,58 @@ A responsive e-commerce homepage built with **HTML5**, **CSS3**, and **Bootstrap
 - Font Awesome 6.5 (icons)
 - Google Fonts (Cormorant Garamond + Poppins)
 
+## Project Structure
+```
+if-solutions-assignment/
+â”œâ”€â”€ index.html        # Main HTML page
+â”œâ”€â”€ styles.css        # Custom CSS styles
+â”œâ”€â”€ README.md         # Project documentation
+â”œâ”€â”€ LICENSE           # MIT License
+â””â”€â”€ images/           # Image assets
+    â”œâ”€â”€ hero-banner.png
+    â”œâ”€â”€ banner-arrangement.png
+    â”œâ”€â”€ product-*.png   (9 product images)
+    â”œâ”€â”€ expert-*.png    (4 expert photos)
+    â””â”€â”€ blog-*.png      (3 blog images)
+```
+
 ## Features
 - Responsive design (desktop, tablet, mobile)
 - Sticky header with navigation
 - Hero banner with carousel arrows
 - Product cards with hover effects, badges, star ratings
 - Countdown timer on sale items
+- Filter tabs (NEW / FEATURED / BEST SELLERS)
+- Promo split banner with checklist
 - Testimonial section with avatar
+- Flower Experts team section
 - Blog section with shadow box
 - Newsletter signup form
-- Footer with payment icons
+- Footer with social icons and payment methods
 - Scroll-triggered fade-in animations
 
+## Sections
+1. Announcement Bar
+2. Header & Navigation
+3. Hero Banner
+4. Features Strip (Free Delivery, Online Order, Freshness, Made By Artists)
+5. New Products
+6. Promo Split Banner
+7. Featured Items
+8. Testimonial
+9. Flower Experts
+10. Blog
+11. Newsletter
+12. Footer
+
+## Browser Compatibility
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
+
 ## How to Run
-Simply open `index.html` in any modern browser.
+Simply open `index.html` in any modern browser. No build tools or server required.
 
 ## Author
-Dulnindu â€” IF Solutions Assignment
+Dulnindu â€” IF Solutions Web Developer Internship Assignment
