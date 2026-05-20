@@ -2,6 +2,9 @@
 
 A responsive e-commerce homepage built with **HTML5**, **CSS3**, and **Bootstrap 5** for the IF Solutions Web Developer Internship assignment.
 
+## Live Demo
+[https://dulnindu123.github.io/if-solutions-assignment/](https://dulnindu123.github.io/if-solutions-assignment/)
+
 ## Tech Stack
 - HTML5 (semantic markup)
 - CSS3 (custom properties, flexbox, gradients, transitions)
