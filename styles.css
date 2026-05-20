@@ -1,4 +1,4 @@
-﻿/* ============================================
+/* ============================================
    DESIGN TOKENS
    ============================================ */
 :root {
@@ -968,15 +968,18 @@ img { max-width: 100%; display: block; }
 .payment-icons {
   display: flex;
   justify-content: flex-end;
-  gap: 8px;
+  gap: 10px;
   align-items: center;
 }
 
-.payment-icons img {
-  height: 22px;
-  border-radius: 3px;
-  background: #fff;
-  padding: 2px 4px;
+.payment-icon {
+  font-size: 1.8rem;
+  color: #888;
+  transition: color 0.25s;
+}
+
+.payment-icon:hover {
+  color: #fff;
 }
 
 /* ============================================
