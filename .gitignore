@@ -16,3 +16,12 @@ dist/
 
 # Logs
 *.log
+
+# Temp files
+*.tmp
+*.bak
+*~
+
+# Archives
+*.zip
+*.tar.gz
