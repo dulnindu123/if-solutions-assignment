@@ -974,13 +974,19 @@ img { max-width: 100%; display: block; }
 
 .payment-icon {
   font-size: 1.8rem;
-  color: #888;
-  transition: color 0.25s;
+  transition: opacity 0.25s;
 }
 
 .payment-icon:hover {
-  color: #fff;
+  opacity: 0.8;
 }
+
+.pay-visa       { color: #1A1F71; }
+.pay-mastercard { color: #EB001B; }
+.pay-paypal     { color: #003087; }
+.pay-stripe     { color: #635BFF; }
+.pay-amex       { color: #006FCF; }
+.pay-discover   { color: #FF6000; }
 
 /* ============================================
    RESPONSIVE
