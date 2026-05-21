@@ -1,4 +1,4 @@
-﻿# Kngu. Flower Shop â€” Homepage UI
+# Kngu. Flower Shop - Homepage UI
 
 A responsive e-commerce homepage built with **HTML5**, **CSS3**, and **Bootstrap 5** for the IF Solutions Web Developer Internship assignment.
 
@@ -15,16 +15,16 @@ A responsive e-commerce homepage built with **HTML5**, **CSS3**, and **Bootstrap
 ## Project Structure
 ```
 if-solutions-assignment/
-â”œâ”€â”€ index.html        # Main HTML page
-â”œâ”€â”€ styles.css        # Custom CSS styles
-â”œâ”€â”€ README.md         # Project documentation
-â”œâ”€â”€ LICENSE           # MIT License
-â””â”€â”€ images/           # Image assets
-    â”œâ”€â”€ hero-banner.png
-    â”œâ”€â”€ banner-arrangement.png
-    â”œâ”€â”€ product-*.png   (9 product images)
-    â”œâ”€â”€ expert-*.png    (4 expert photos)
-    â””â”€â”€ blog-*.png      (3 blog images)
+|-- index.html          # Main HTML page
+|-- styles.css          # Custom CSS styles
+|-- README.md           # Project documentation
+|-- LICENSE             # MIT License
++-- images/             # Image assets
+    |-- hero-banner.png
+    |-- banner-arrangement.png
+    |-- product-*.png     (9 product images)
+    |-- expert-*.png      (4 expert photos)
+    +-- blog-*.png        (3 blog images)
 ```
 
 ## Features
@@ -66,7 +66,7 @@ if-solutions-assignment/
 Simply open `index.html` in any modern browser. No build tools or server required.
 
 ## Author
-Dulnindu â€” IF Solutions Web Developer Internship Assignment
+Dulnindu - IF Solutions Web Developer Internship Assignment
 
 ## Design Decisions
 - **Typography**: Cormorant Garamond (serif) for headings to convey elegance, Poppins (sans-serif) for body text for readability
@@ -76,10 +76,10 @@ Dulnindu â€” IF Solutions Web Developer Internship Assignment
 - **Accessibility**: Semantic HTML5 elements, ARIA labels on interactive elements, proper heading hierarchy
 
 ## Acknowledgements
-- [Bootstrap 5](https://getbootstrap.com/) â€” Responsive grid framework
-- [Font Awesome 6](https://fontawesome.com/) â€” Icon library
-- [Google Fonts](https://fonts.google.com/) â€” Cormorant Garamond & Poppins typefaces
-- IF Solutions â€” Assignment brief and reference design
+- [Bootstrap 5](https://getbootstrap.com/) - Responsive grid framework
+- [Font Awesome 6](https://fontawesome.com/) - Icon library
+- [Google Fonts](https://fonts.google.com/) - Cormorant Garamond & Poppins typefaces
+- IF Solutions - Assignment brief and reference design
 
 ---
 Made with care for IF Solutions Web Developer Internship
