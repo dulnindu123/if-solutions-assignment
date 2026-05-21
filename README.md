@@ -80,3 +80,6 @@ Dulnindu â€” IF Solutions Web Developer Internship Assignment
 - [Font Awesome 6](https://fontawesome.com/) â€” Icon library
 - [Google Fonts](https://fonts.google.com/) â€” Cormorant Garamond & Poppins typefaces
 - IF Solutions â€” Assignment brief and reference design
+
+---
+Made with care for IF Solutions Web Developer Internship
