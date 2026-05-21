@@ -968,25 +968,42 @@ img { max-width: 100%; display: block; }
 .payment-icons {
   display: flex;
   justify-content: flex-end;
-  gap: 10px;
+  gap: 6px;
   align-items: center;
 }
 
-.payment-icon {
-  font-size: 1.8rem;
-  transition: opacity 0.25s;
+.pay-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 42px;
+  height: 26px;
+  padding: 0 6px;
+  border-radius: 3px;
+  font-size: 0.65rem;
+  font-weight: 700;
+  font-family: var(--font-body);
+  color: #fff;
+  line-height: 1;
+  letter-spacing: 0.5px;
 }
 
-.payment-icon:hover {
-  opacity: 0.8;
+.pay-badge small {
+  font-size: 0.45rem;
+  font-weight: 600;
+  letter-spacing: 0;
 }
 
-.pay-visa       { color: #1A1F71; }
-.pay-mastercard { color: #EB001B; }
-.pay-paypal     { color: #003087; }
-.pay-stripe     { color: #635BFF; }
-.pay-amex       { color: #006FCF; }
-.pay-discover   { color: #FF6000; }
+.pay-badge i {
+  font-size: 1.1rem;
+}
+
+.pay-visa       { background: #1A1F71; font-style: italic; }
+.pay-mastercard { background: #CC0000; }
+.pay-paypal     { background: #003087; }
+.pay-skrill     { background: #872E9F; }
+.pay-maestro    { background: #0099DD; }
+.pay-electron   { background: #1A1F71; font-style: italic; font-size: 0.5rem; flex-direction: column; gap: 0; }
 
 /* ============================================
    RESPONSIVE
