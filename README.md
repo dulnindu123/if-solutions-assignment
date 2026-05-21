@@ -74,3 +74,9 @@ Dulnindu â€” IF Solutions Web Developer Internship Assignment
 - **Layout**: Bootstrap 5 grid for responsive columns, custom CSS for component-specific styling
 - **Animations**: CSS transitions for hover effects, IntersectionObserver for scroll-triggered fade-in animations
 - **Accessibility**: Semantic HTML5 elements, ARIA labels on interactive elements, proper heading hierarchy
+
+## Acknowledgements
+- [Bootstrap 5](https://getbootstrap.com/) â€” Responsive grid framework
+- [Font Awesome 6](https://fontawesome.com/) â€” Icon library
+- [Google Fonts](https://fonts.google.com/) â€” Cormorant Garamond & Poppins typefaces
+- IF Solutions â€” Assignment brief and reference design
